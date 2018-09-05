@@ -1,0 +1,5 @@
+#Casos de teste e resultados;
+
+*A implantação será realizada por partes e após os testes de funcionalidades. Fica previsto do início da implantação até o término o prazo de até 60 dias, tendo em vista o retorno de usabilidade.
+
+*Poderá ocorrer reparos, manutenções e melhores orientações para os usuários, assim como treinamento para cada módulo. O sistema será implementado uma máquina por vez, sendo alocado uma como servidor para armazenamento dos dados.
